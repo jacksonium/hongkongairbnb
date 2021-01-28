@@ -2,7 +2,7 @@ Motivation for the project
 --------------------------
 This repository consists of data files (Nov 2019 & Nov 2020) obtained from insideairbnb.com for Hong Kong.
 
-The jupyter notebook included contain my analysis and finding to answer:
+The jupyter notebook contains my analysis and findings to answer:
 
 1) What is the COVID-19 impact on Airbnb market in Hong Kong?
 2) What is the most common type of Airbnb rental property? Where is the most popular area?
@@ -36,7 +36,7 @@ Summary of the results of the analysis
 --------------------------------------
 The questions were answered and a prediction model was built using machine learning techniques from 2019 data using random forest regression algorithm with a R^2 score of over 0.85 which seems to be satisfactory. Please refer to the jupyter notebook for detail.
 
-However fitting the model with 2020 did not produce desire results. Further investigation and work are required, which including but not limited to using different modelling alogorithm or using data from longer time horizon.
+However fitting the model with 2020 data did not produce desire results. Further investigation and work are required, which including but not limited to using different modelling alogorithm or using data from longer time horizon.
 
 A blog post has also been published at:
 
@@ -45,7 +45,7 @@ https://jackson-chan.medium.com/predicting-hong-kong-airbnb-prices-4384891bcd04
 
 Acknowledgement
 ---------------
-Many thanks to insiderairbnb.com for providing the necessary publicly available Airbnb data
+Many thanks to insideairbnb.com for providing the necessary publicly available Airbnb data
 
 
 
