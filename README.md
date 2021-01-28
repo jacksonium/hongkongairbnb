@@ -12,13 +12,13 @@ The jupyter notebook included contain my analysis and finding to answer:
 
 Libraries used
 --------------
--numpy
--matplotlib
--pandas
--folium
--sklearn
--seaborn
--itertools
+1)numpy
+2)matplotlib
+3)pandas
+4)folium
+5)sklearn
+6)seaborn
+7)itertools
 
 
 Files in the respository
